@@ -1,5 +1,7 @@
 ## Hi there! I'm Andrew, an aspiring Full Stack Developer! 👋
 
+I currently attend the University of California, Merced majoring in Computer Science & Engineering with a minor in Applied Mathematical Sciences!
+
 - 🔭 I’m currently working on an application for the United States Department of State.
 - 🌱 I’m currently learning Full Stack Web Development and Software Engineering.
 - 📫 How to reach me: Connect and follow me on LinkedIn and Instagram!
