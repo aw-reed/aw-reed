@@ -3,7 +3,7 @@
 I currently attend the University of California, Merced majoring in Computer Science & Engineering with a minor in Applied Mathematical Sciences!
 
 - 🔭 I’m currently working on an application for the United States Department of State.
-- 🌱 I’m currently learning Full Stack Web Development and Software Engineering.
+- 🌱 I recently developed a website for Alpha Kappa Psi's philanthropy week: [Paws for a Cause](https://akpsipawsforacause.com)
 - 📫 How to reach me: Connect and follow me on LinkedIn and Instagram!
 - ⚡ Fun fact: I've been to over 20 countries...
 
