@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there! I'm Andrew, an aspiring Full Stack Developer! 👋
+
+- 🔭 I’m currently working on an application for the United States Department of State.
+- 🌱 I’m currently learning Full Stack Web Development and Software Engineering.
+- 📫 How to reach me: Connect and follow me on LinkedIn and Instagram!
+- ⚡ Fun fact: I've been to over 20 countries...
 
 <!--
 **aw-reed/aw-reed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
